@@ -1,0 +1,1 @@
+export const REACT_APP_BACKEND_BASE = "https://randommerndump.onrender.com";
